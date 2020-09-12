@@ -1,0 +1,51 @@
+.text-right
+{
+    color:black;
+}
+.header .title{
+    font-family: cursive;
+}
+.avater img{
+    max-height: 70px;
+    align-items: center;
+}
+.avater {
+    width: 100%;
+    text-align: center;
+}
+.partyCard{
+    min-height: 200px;
+}
+.partyLogo {
+    max-height: 100px;
+    max-width: 100px;
+    position: absolute;
+    right: 7px;
+  }
+
+  .section-title{
+    font-family: cursive;
+    color: blueviolet;  
+    font-size: 33px;
+  }
+
+  body, .section-bg{
+      background-color: #f0f1f6;
+  }
+
+  
+  /* Style the counter cards */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    /* text-align: center; */
+    background-color: #f1f1f1;
+  }
+
+  .statusVoted{
+      color:green;
+  }
+
+  .statusNotVoted{
+    color:red;
+}
